@@ -1,2 +1,2 @@
-# webserver-template
-A Node.js Express webserver template.
+# Webserver Template
+A webserver template.
